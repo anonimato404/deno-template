@@ -1,1 +1,1 @@
-import template from "./mod.ts";
+import _template from "./mod.ts";
