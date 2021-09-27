@@ -5,8 +5,8 @@
 ![Lines Of Code](https://img.shields.io/tokei/lines/github.com/UltiRequiem/deno-template?color=blue&label=Total%20Lines)
 ![CodeQL](https://github.com/UltiRequiem/deno-template/workflows/CodeQL/badge.svg)
 
-You can get this package by [nest.land](https://nest.land/package/template) or
-[deno.land](https://deno.land/x/template).
+You can get this package by [nest.land](https://nest.land/package/template),
+[deno.land](https://deno.land/x/template) or [denopkg](https://denopkg.com/UltiRequiem/deno-template/mod.ts).
 
 ## Usage
 
