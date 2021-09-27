@@ -4,6 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Lines Of Code](https://img.shields.io/tokei/lines/github.com/UltiRequiem/deno-template?color=blue&label=Total%20Lines)
 ![CodeQL](https://github.com/UltiRequiem/deno-template/workflows/CodeQL/badge.svg)
+![Lint](https://github.com/UltiRequiem/deno-template/workflows/Lint/badge.svg)
+![Test](https://github.com/UltiRequiem/deno-template/workflows/Tests/badge.svg)
 
 You can get this package by [nest.land](https://nest.land/package/template),
 [deno.land](https://deno.land/x/template) or [denopkg](https://denopkg.com/UltiRequiem/deno-template/mod.ts).
